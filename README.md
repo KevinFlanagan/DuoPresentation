@@ -1,5 +1,5 @@
 # DuoPresentation
-## ------------------------------------------------
+
 ## Conner Brookfield G00361129
 ## Kevin Flanagan G00228079
 #### Group AP
